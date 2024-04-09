@@ -3,6 +3,7 @@
 **Comando lista -> ls:**\
 Usado para verificar arquivos presentes no diretório atual
 Ao utilizá-lo em conjunto com "-l", verificamos informações sobre tais arquivos
+Ao utilizá-lo com " -lh", verificamos permissões 
 
 **Comando mudar de diretório -> cd**\
 Usado para mudar diretório atual: cd PATH\
@@ -46,3 +47,17 @@ Usado para instalar aplicações via cmd\
 
 **Remover aplicações instaladas -> sudo apt remove NAME**\
 Usado para remover aplicações instaladas\
+
+**Comando concatenate -> cat name**\
+Usado para exibir conteúdo de arquivo 
+
+**Comando modificar para executável -> chmod +x NAME**\
+Usado para mudar permissão para ser executável
+
+_nano Script SH_
+**Comando para iniciar o nano e criar arquivo sh-> nano NAME.sh**\
+Usado para iniciar um arquivo sh utilizando nano
+
+_vi Script SH_
+**Comando para iniciar o nano e criar arquivo sh-> vi NAME.sh**\
+Usado para iniciar um arquivo sh utilizando vi
