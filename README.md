@@ -1,9 +1,10 @@
 # Linux_Terminal_CMD
 
 **Comando lista -> ls:**\
-Usado para verificar arquivos presentes no diretório atual
-Ao utilizá-lo em conjunto com "-l", verificamos informações sobre tais arquivos
-Ao utilizá-lo com " -lh", verificamos permissões 
+Usado para verificar arquivos presentes no diretório atual\
+Ao utilizá-lo em conjunto com "-l", verificamos informações sobre tais arquivos\
+Ao utilizá-lo com " -lh", verificamos permissões \
+Ao utilizá-lo com " -a", podemos deixar todos os arquivos visíveis 
 
 **Comando verificar diretório -> pwd:**\
 Usado para verificar em que repositório estamos localizados
@@ -42,6 +43,9 @@ Usado para mover arquivos ou diretórios para outro diretório mv NAME PATH\
 **Comando descompactar -> unzip**\
 Usado para extrair arquivos compactados no mesmo diretório em que está localizado\
 
+**Comando para verificar tipo -> file NAME**\
+Usado para verificar o tipo do arquivo desejado
+
 **Atualizar repositórios com nível de adm -> sudo apt update**\
 Usado para preparar o ambiente para instalar aplicações utilizando o terminal\
 
@@ -53,6 +57,13 @@ Usado para remover aplicações instaladas\
 
 **Comando concatenate -> cat name**\
 Usado para exibir conteúdo de arquivo 
+
+**Comando visualização expandida -> less PATH**\
+Usado para exibir conteúdo de um arquivo de forma expandida\
+Possui alguns comandos para navegação: q (usado para sair da página), 
+page up, page down, up e down (navegação utilizando teclas), 
+g(ir para início do arquivo de texto), G(ir para o final do arquivo de texto), 
+/search(procurar texto específico dentro do arquivo de texto no formato /TEXTO)
 
 **Comando modificar para executável -> chmod +x NAME**\
 Usado para mudar permissão para ser executável
