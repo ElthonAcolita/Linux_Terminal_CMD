@@ -35,7 +35,8 @@ Ao utilizá-lo em conjunto com *TYPE, removemos todos os arquivos do tipo especi
 **Comando copiar -> cp**\
 Usado para copiar um arquivo para outro diretório cd ARQUIVO PATH\
 Ao utilizá-lo em conjunto com " *.* ", copiamos todos os arquivos dentro do diretório\
-Ao utilizá-lo com " -r", copiamos de forma recursiva, tanto arquivos quanto conteúdo
+Ao utilizá-lo com " -r", copiamos de forma recursiva, tanto arquivos quanto conteúdo\
+Ao utilizá-lo com " -i", se existir um arquivo com o mesmo nome do copiado, o copiado é substituido
 
 **Comando mover -> mv**\
 Usado para mover arquivos ou diretórios para outro diretório mv NAME PATH\
