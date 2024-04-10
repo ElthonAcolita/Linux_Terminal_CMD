@@ -5,6 +5,9 @@ Usado para verificar arquivos presentes no diretório atual
 Ao utilizá-lo em conjunto com "-l", verificamos informações sobre tais arquivos
 Ao utilizá-lo com " -lh", verificamos permissões 
 
+**Comando verificar diretório -> pwd:**\
+Usado para verificar em que repositório estamos localizados
+
 **Comando mudar de diretório -> cd**\
 Usado para mudar diretório atual: cd PATH\
 Ao utilizá-lo em conjunto com " ..", voltaremos um diretório atrás\
