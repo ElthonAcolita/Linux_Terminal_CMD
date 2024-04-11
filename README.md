@@ -26,7 +26,7 @@ Usado para virificar lista de discos e reportições presentes na máquina
 Usado para criar um novo diretório dentro do diretório atual mkdir NAME
 
 **Comando remover diretório -> rmdir**\
-USado para remor um diretório existente no diretório atual rmdir NAME
+Usado para remover um diretório existente no diretório atual rmdir NAME
 
 **Comando para remover arquivos -> rm**\
 Usado para remover arquivos de dentro de diretórios rm NAME_FILE\
